@@ -1,7 +1,7 @@
 # decide-update-4.1
 
 * Curso 2022/2023
-* Asignatura: Evolución y Gestión de la Configuración
+* Asignatura: Evolución y Gestión de la Configuración.
 * Milestone: M3
 
 
