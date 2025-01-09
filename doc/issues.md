@@ -122,3 +122,4 @@ Diseño y usabilidad
       componentes css. (M)
     * Hacer la interfaz responsive, para que funcione en móviles. (M)
     * Estudiar la accesibilidad de la interfaz y hacerla accesible (M)
+    *a
